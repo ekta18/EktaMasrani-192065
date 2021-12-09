@@ -1,4 +1,4 @@
-# EktaMasrani 192065
+# EktaMasrani-192065
 
 St. Francis Institute of Technology
 
@@ -8,7 +8,7 @@ Five Days Student Development Programme on DevOps
 
 (28th June to 2nd July 2021)
 
-Assignment : GIT & GITHUB TASK
+Assignment : **GIT & GITHUB TASK**
 
 1. Create a GitHub Account (Use Existing account, if you already have one) (https://github.com/join)
 2. Create a remote repository on GitHub and name it (fullname-rollno).
